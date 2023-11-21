@@ -8,7 +8,7 @@ const AboutMe = () => {
       <section>
         <h2>Experience</h2>
         <ul>
-          <li>Currently enrolled in a full-stack development program at UPenn</li>
+          <li>Graduated from my Full-Stack Web Development program at UPENN</li>
           <li>Did around 6 years of warehouse work and even learned to drive forklifts</li>
         </ul>
       </section>

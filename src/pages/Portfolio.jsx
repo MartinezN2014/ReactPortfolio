@@ -4,7 +4,7 @@ import Project from "../components/Project";
 const projects = [
   {
     title: "USAweatherforecast",
-    image: "/images/weatherforecast.jpg", 
+    image: "/images/weatherforecast.png", 
     deployedLink: "https://martinezn2014.github.io/USAWeatherForecast/",
     githubLink: "https://github.com/MartinezN2014/USAWeatherForecast",
   },
